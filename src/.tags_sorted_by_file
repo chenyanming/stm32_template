@@ -1,0 +1,154 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+EXTI_InitStructure	hw_config.c	/^EXTI_InitTypeDef EXTI_InitStructure;$/;"	v
+Enter_LowPowerMode	hw_config.c	/^void Enter_LowPowerMode(void)$/;"	f
+GPIO_AINConfig	hw_config.c	/^void GPIO_AINConfig(void)$/;"	f
+Get_SerialNum	hw_config.c	/^void Get_SerialNum(void)$/;"	f
+HSEStartUpStatus	hw_config.c	/^ErrorStatus HSEStartUpStatus;$/;"	v
+JoyState	hw_config.c	/^uint8_t JoyState(void)$/;"	f
+Joystick_Send	hw_config.c	/^void Joystick_Send(uint8_t Keys)$/;"	f
+Leave_LowPowerMode	hw_config.c	/^void Leave_LowPowerMode(void)$/;"	f
+Set_System	hw_config.c	/^void Set_System(void)$/;"	f
+Set_USBClock	hw_config.c	/^void Set_USBClock(void)$/;"	f
+USB_Cable_Config	hw_config.c	/^void USB_Cable_Config (FunctionalState NewState)$/;"	f
+USB_Interrupts_Config	hw_config.c	/^void USB_Interrupts_Config(void)$/;"	f
+Delay	main.c	/^void Delay(__IO uint32_t nCount)$/;"	f
+assert_failed	main.c	/^void assert_failed(uint8_t* file, uint32_t line)$/;"	f
+main	main.c	/^int main(void)$/;"	f
+ADC1_2_IRQHandler	startup.c	277;"	d	file:
+ADC3_IRQHandler	startup.c	306;"	d	file:
+BusFault_Handler	startup.c	252;"	d	file:
+CAN1_RX1_IRQHandler	startup.c	280;"	d	file:
+CAN1_SCE_IRQHandler	startup.c	281;"	d	file:
+DMA1_Channel1_IRQHandler	startup.c	270;"	d	file:
+DMA1_Channel2_IRQHandler	startup.c	271;"	d	file:
+DMA1_Channel3_IRQHandler	startup.c	272;"	d	file:
+DMA1_Channel4_IRQHandler	startup.c	273;"	d	file:
+DMA1_Channel5_IRQHandler	startup.c	274;"	d	file:
+DMA1_Channel6_IRQHandler	startup.c	275;"	d	file:
+DMA1_Channel7_IRQHandler	startup.c	276;"	d	file:
+DMA2_Channel1_IRQHandler	startup.c	315;"	d	file:
+DMA2_Channel2_IRQHandler	startup.c	316;"	d	file:
+DMA2_Channel3_IRQHandler	startup.c	317;"	d	file:
+DMA2_Channel4_5_IRQHandler	startup.c	318;"	d	file:
+DebugMon_Handler	startup.c	255;"	d	file:
+Default_Handler	startup.c	/^void Default_Handler(void)$/;"	f
+EXTI0_IRQHandler	startup.c	264;"	d	file:
+EXTI15_10_IRQHandler	startup.c	299;"	d	file:
+EXTI1_IRQHandler	startup.c	265;"	d	file:
+EXTI2_IRQHandler	startup.c	267;"	d	file:
+EXTI3_IRQHandler	startup.c	268;"	d	file:
+EXTI4_IRQHandler	startup.c	269;"	d	file:
+EXTI9_5_IRQHandler	startup.c	282;"	d	file:
+FLASH_IRQHandler	startup.c	262;"	d	file:
+FSMC_IRQHandler	startup.c	307;"	d	file:
+I2C1_ER_IRQHandler	startup.c	291;"	d	file:
+I2C1_EV_IRQHandler	startup.c	290;"	d	file:
+I2C2_ER_IRQHandler	startup.c	293;"	d	file:
+I2C2_EV_IRQHandler	startup.c	292;"	d	file:
+MMI_Handler	startup.c	250;"	d	file:
+MemManage_Handler	startup.c	251;"	d	file:
+PVD_IRQHandler	startup.c	259;"	d	file:
+PendSV_Handler	startup.c	256;"	d	file:
+RCC_IRQHandler	startup.c	263;"	d	file:
+RTCAlarm_IRQHandler	startup.c	300;"	d	file:
+RTC_IRQHandler	startup.c	261;"	d	file:
+Reset_Handler	startup.c	/^void Reset_Handler(void) {$/;"	f
+SDIO_IRQHandler	startup.c	308;"	d	file:
+SPI1_IRQHandler	startup.c	294;"	d	file:
+SPI2_IRQHandler	startup.c	295;"	d	file:
+SPI3_IRQHandler	startup.c	310;"	d	file:
+SVC_Handler	startup.c	254;"	d	file:
+SysTick_Handler	startup.c	257;"	d	file:
+TAMPER_IRQHandler	startup.c	260;"	d	file:
+TIM1_BRK_IRQHandler	startup.c	283;"	d	file:
+TIM1_CC_IRQHandler	startup.c	286;"	d	file:
+TIM1_TRG_COM_IRQHandler	startup.c	285;"	d	file:
+TIM1_UP_IRQHandler	startup.c	284;"	d	file:
+TIM2_IRQHandler	startup.c	287;"	d	file:
+TIM3_IRQHandler	startup.c	288;"	d	file:
+TIM4_IRQHandler	startup.c	289;"	d	file:
+TIM5_IRQHandler	startup.c	309;"	d	file:
+TIM6_IRQHandler	startup.c	313;"	d	file:
+TIM7_IRQHandler	startup.c	314;"	d	file:
+TIM8_BRK_IRQHandler	startup.c	302;"	d	file:
+TIM8_CC_IRQHandler	startup.c	305;"	d	file:
+TIM8_TRG_COM_IRQHandler	startup.c	304;"	d	file:
+TIM8_UP_IRQHandler	startup.c	303;"	d	file:
+UART4_IRQHandler	startup.c	311;"	d	file:
+UART5_IRQHandler	startup.c	312;"	d	file:
+USART1_IRQHandler	startup.c	296;"	d	file:
+USART2_IRQHandler	startup.c	297;"	d	file:
+USART3_IRQHandler	startup.c	298;"	d	file:
+USBWakeUp_IRQHandler	startup.c	301;"	d	file:
+USB_HP_CAN1_TX_IRQHandler	startup.c	278;"	d	file:
+USB_LP_CAN1_RX0_IRQHandler	startup.c	279;"	d	file:
+UsageFault_Handler	startup.c	253;"	d	file:
+WEAK	startup.c	3;"	d	file:
+WWDG_IRQHandler	startup.c	258;"	d	file:
+__Init_Data	startup.c	/^void __Init_Data(void) {$/;"	f
+g_pfnVectors	startup.c	/^void (* const g_pfnVectors[])(void) = {$/;"	v
+intfunc	startup.c	/^typedef void( *const intfunc )( void );$/;"	t	file:
+BusFault_Handler	stm32f10x_it.c	/^void BusFault_Handler(void)$/;"	f
+DebugMon_Handler	stm32f10x_it.c	/^void DebugMon_Handler(void)$/;"	f
+EXTI9_5_IRQHandler	stm32f10x_it.c	/^void EXTI9_5_IRQHandler(void)$/;"	f
+HardFault_Handler	stm32f10x_it.c	/^void HardFault_Handler(void)$/;"	f
+MemManage_Handler	stm32f10x_it.c	/^void MemManage_Handler(void)$/;"	f
+NMI_Handler	stm32f10x_it.c	/^void NMI_Handler(void)$/;"	f
+PendSV_Handler	stm32f10x_it.c	/^void PendSV_Handler(void)$/;"	f
+SVC_Handler	stm32f10x_it.c	/^void SVC_Handler(void)$/;"	f
+SysTick_Handler	stm32f10x_it.c	/^void SysTick_Handler(void)$/;"	f
+USBWakeUp_IRQHandler	stm32f10x_it.c	/^void USBWakeUp_IRQHandler(void)$/;"	f
+USB_LP_CAN1_RX0_IRQHandler	stm32f10x_it.c	/^void USB_LP_CAN1_RX0_IRQHandler(void)$/;"	f
+UsageFault_Handler	stm32f10x_it.c	/^void UsageFault_Handler(void)$/;"	f
+Joystick_ConfigDescriptor	usb_desc.c	/^const uint8_t Joystick_ConfigDescriptor[JOYSTICK_SIZ_CONFIG_DESC] =$/;"	v
+Joystick_DeviceDescriptor	usb_desc.c	/^const uint8_t Joystick_DeviceDescriptor[JOYSTICK_SIZ_DEVICE_DESC] =$/;"	v
+Joystick_ReportDescriptor	usb_desc.c	/^const uint8_t Joystick_ReportDescriptor[JOYSTICK_SIZ_REPORT_DESC] =$/;"	v
+Joystick_StringLangID	usb_desc.c	/^const uint8_t Joystick_StringLangID[JOYSTICK_SIZ_STRING_LANGID] =$/;"	v
+Joystick_StringProduct	usb_desc.c	/^const uint8_t Joystick_StringProduct[JOYSTICK_SIZ_STRING_PRODUCT] =$/;"	v
+Joystick_StringSerial	usb_desc.c	/^uint8_t Joystick_StringSerial[JOYSTICK_SIZ_STRING_SERIAL] =$/;"	v
+Joystick_StringVendor	usb_desc.c	/^const uint8_t Joystick_StringVendor[JOYSTICK_SIZ_STRING_VENDOR] =$/;"	v
+USB_Istr	usb_istr.c	/^void USB_Istr(void)$/;"	f
+bIntPackSOF	usb_istr.c	/^__IO uint8_t bIntPackSOF = 0;  \/* SOFs received between 2 consecutive packets *\/$/;"	v
+pEpInt_IN	usb_istr.c	/^void (*pEpInt_IN[7])(void) =$/;"	v
+pEpInt_OUT	usb_istr.c	/^void (*pEpInt_OUT[7])(void) =$/;"	v
+wIstr	usb_istr.c	/^__IO uint16_t wIstr;  \/* ISTR register last read value *\/$/;"	v
+Config_Descriptor	usb_prop.c	/^ONE_DESCRIPTOR Config_Descriptor =$/;"	v
+Device_Descriptor	usb_prop.c	/^ONE_DESCRIPTOR Device_Descriptor =$/;"	v
+Device_Property	usb_prop.c	/^DEVICE_PROP Device_Property =$/;"	v
+Device_Table	usb_prop.c	/^DEVICE Device_Table =$/;"	v
+Joystick_Data_Setup	usb_prop.c	/^RESULT Joystick_Data_Setup(uint8_t RequestNo)$/;"	f
+Joystick_GetConfigDescriptor	usb_prop.c	/^uint8_t *Joystick_GetConfigDescriptor(uint16_t Length)$/;"	f
+Joystick_GetDeviceDescriptor	usb_prop.c	/^uint8_t *Joystick_GetDeviceDescriptor(uint16_t Length)$/;"	f
+Joystick_GetHIDDescriptor	usb_prop.c	/^uint8_t *Joystick_GetHIDDescriptor(uint16_t Length)$/;"	f
+Joystick_GetProtocolValue	usb_prop.c	/^uint8_t *Joystick_GetProtocolValue(uint16_t Length)$/;"	f
+Joystick_GetReportDescriptor	usb_prop.c	/^uint8_t *Joystick_GetReportDescriptor(uint16_t Length)$/;"	f
+Joystick_GetStringDescriptor	usb_prop.c	/^uint8_t *Joystick_GetStringDescriptor(uint16_t Length)$/;"	f
+Joystick_Get_Interface_Setting	usb_prop.c	/^RESULT Joystick_Get_Interface_Setting(uint8_t Interface, uint8_t AlternateSetting)$/;"	f
+Joystick_NoData_Setup	usb_prop.c	/^RESULT Joystick_NoData_Setup(uint8_t RequestNo)$/;"	f
+Joystick_Report_Descriptor	usb_prop.c	/^ONE_DESCRIPTOR Joystick_Report_Descriptor =$/;"	v
+Joystick_Reset	usb_prop.c	/^void Joystick_Reset(void)$/;"	f
+Joystick_SetConfiguration	usb_prop.c	/^void Joystick_SetConfiguration(void)$/;"	f
+Joystick_SetDeviceAddress	usb_prop.c	/^void Joystick_SetDeviceAddress (void)$/;"	f
+Joystick_SetProtocol	usb_prop.c	/^RESULT Joystick_SetProtocol(void)$/;"	f
+Joystick_Status_In	usb_prop.c	/^void Joystick_Status_In(void)$/;"	f
+Joystick_Status_Out	usb_prop.c	/^void Joystick_Status_Out (void)$/;"	f
+Joystick_init	usb_prop.c	/^void Joystick_init(void)$/;"	f
+Mouse_Hid_Descriptor	usb_prop.c	/^ONE_DESCRIPTOR Mouse_Hid_Descriptor =$/;"	v
+ProtocolValue	usb_prop.c	/^uint32_t ProtocolValue;$/;"	v
+String_Descriptor	usb_prop.c	/^ONE_DESCRIPTOR String_Descriptor[4] =$/;"	v
+User_Standard_Requests	usb_prop.c	/^USER_STANDARD_REQUESTS User_Standard_Requests =$/;"	v
+PowerOff	usb_pwr.c	/^RESULT PowerOff()$/;"	f
+PowerOn	usb_pwr.c	/^RESULT PowerOn(void)$/;"	f
+Resume	usb_pwr.c	/^void Resume(RESUME_STATE eResumeSetVal)$/;"	f
+ResumeS	usb_pwr.c	/^ResumeS;$/;"	v	typeref:struct:__anon1
+Resume_Init	usb_pwr.c	/^void Resume_Init(void)$/;"	f
+Suspend	usb_pwr.c	/^void Suspend(void)$/;"	f
+bDeviceState	usb_pwr.c	/^__IO uint32_t bDeviceState = UNCONNECTED; \/* USB device status *\/$/;"	v
+bESOFcnt	usb_pwr.c	/^  __IO uint8_t bESOFcnt;$/;"	m	struct:__anon1	file:
+eState	usb_pwr.c	/^  __IO RESUME_STATE eState;$/;"	m	struct:__anon1	file:
+fSuspendEnabled	usb_pwr.c	/^__IO bool fSuspendEnabled = TRUE;  \/* true when suspend is possible *\/$/;"	v

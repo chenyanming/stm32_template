@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/ming/Project/stm32"
+		}
+	],
+	"settings":
+	{
+		"sublimeclang_options":
+		[
+			"-I/home/ming/Project/stm32/inc",
+			"-I/home/ming/Project/stm32/libs/STM32F10x_StdPeriph_Lib_V3.5.0/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x",
+			"-I/home/ming/Project/stm32/libs/STM32F10x_StdPeriph_Lib_V3.5.0/Libraries/CMSIS/CM3/CoreSupport",
+			"-I/home/ming/Project/stm32/libs/STM32F10x_StdPeriph_Lib_V3.5.0/Libraries/STM32F10x_StdPeriph_Driver/inc"
+		]
+	}
+}

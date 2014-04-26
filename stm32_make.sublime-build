@@ -1,0 +1,6 @@
+{
+	"cmd": ["make", "OptLIB=0", "OptSRC=0", "all", "tshow"],//执行的命令
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+	"working_dir": "${project_path}",//执行的路径为工程文件的路径
+	"selector": "Makefile"
+}
